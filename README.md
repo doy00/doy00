@@ -1,3 +1,12 @@
+
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=doy00&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/doy00"
+      width="600"
+      height="300"
+    />
+    </a>
+    
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=8fceff&height=180&text=doy00's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
@@ -15,13 +24,6 @@
           </div>
     </div>
 
-    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=doy00&utm_content=farm">
-    <img
-      src="https://render.gitanimals.org/farms/doy00"
-      width="600"
-      height="300"
-    />
-    </a>
     
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
